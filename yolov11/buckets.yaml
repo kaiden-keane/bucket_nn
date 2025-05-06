@@ -1,8 +1,0 @@
-path: C:/Users/kaiden/bucket_nn/dataset
-train: train/images
-val: val/images
-
-nc: 1
-
-names:
-  0: 'bucket'
