@@ -1,0 +1,14 @@
+path: C:\Users\kaiden\bucket_nn\My-First-Project-1
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bucket']
+
+roboflow:
+  workspace: bucket-pgarr
+  project: my-first-project-3kwzp-hjmps
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bucket-pgarr/my-first-project-3kwzp-hjmps/dataset/1
